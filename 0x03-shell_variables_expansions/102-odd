@@ -1,2 +1,2 @@
 #!/bin/bash
-perle lne 'print if $. %2 == l'
+paste - - | cut -f1
